@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 # Hola! :wave:
-Mi Nombre es Steven Jurado **Desarrollador Frontend** y un poco de BackEnd Actualmente 2021-02-06  Me Encuantro en mis ultimos semetres ya  de Terminar Mis Estuadio :books: de Ing. en ciencia de la  computacion :100:  :computer:  en La Universidad Politecnica Salesiana (UPS)  De Ecuador. :pushpin:
+Mi Nombre es Steven Jurado **Desarrollador Backend** y un poco de Frontend Actualmente 2021-02-06  Me Encuantro en mis ultimos semetres ya  de Terminar Mis Estuadio :books: de Ing. en ciencia de la  computacion :100:  :computer:  en La Universidad Politecnica Salesiana (UPS)  De Ecuador. :pushpin:
 
-Tambien soy estudiante de Platzi ( Platzi es una plataforma de educación en línea latinoamericana. Esta dirigida a todo público, sin embargo, su objetivo es la educación en tecnología y las variantes a partir de ella ):tw-1f31f: estuadiante de Ucademy y Cisco (netacad):satellite: y me encuentro aprendiendo de la **tecnologia 4.0.**
+Tambien soy estudiante de Platzi ( Platzi es una plataforma de educación en línea latinoamericana. Esta dirigida a todo público, sin embargo, su objetivo es la educación en tecnología y las variantes a partir de ella ) :tw-1f31f: estuadiante de Ucademy y Cisco (netacad) :satellite: y me encuentro aprendiendo de la **tecnologia 4.0.**
 
 
 
